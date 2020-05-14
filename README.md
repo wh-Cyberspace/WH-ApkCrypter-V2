@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter/master/img/whapkclogo.png" height="40"><br>
-V2
+<b>V2</b>
 </p>
 
 <br>
