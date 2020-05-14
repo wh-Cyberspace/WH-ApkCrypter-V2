@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter/master/img/whapkclogo.png" height="40"><br>
-
+V2
 </p>
 
 <br>
@@ -43,7 +43,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 5. now , windows defender turn off real time protection [ optional ]
 
-6. and run ( WH-ApkcrypterV1.0.exe )
+6. and run ( WH-Apkcrypter-v2.1.exee )
  
 
 
@@ -59,7 +59,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
  ☆ how to use in pc ⏬
  
-🏳 [WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace( PC )]( https://www.youtube.com/watch?v=x_rsAHpSfAs "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace ( PC ) ") 
+🏳 [Comeing Soon]( https://www.youtube.com/watch?v=x_rsAHpSfAs "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( windows PC ) ") 
 
 
 
@@ -70,16 +70,13 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-V2/master/img/whapkc2-1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-V2/master/img/whapkc2-1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-V2/master/img/whapkc2-2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-V2/master/img/whapkc2-2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-V2/master/img/whapkc2-3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-V2/master/img/whapkc2-3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-V2/master/img/whapkc2-2.png" height="40"><br>
 
-</p>
 
 
 
