@@ -37,13 +37,13 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 1. Download Zip file https://github.com/wh-Cyberspace/WH-ApkCrypter-V2/archive/master.zip
 2. Open up Windows directory
 
-3. Now, Unzip your download file (WH-ApkCrypter-master.zip) 
+3. Now, Unzip your download file (WH-ApkCrypter-V2-master.zip) 
 
 4. and open directory
 
 5. now , windows defender turn off real time protection [ optional ]
 
-6. and run ( WH-Apkcrypter-v2.1.exee )
+6. and run ( WH-Apkcrypter-v2.1.exe )
  
 
 
