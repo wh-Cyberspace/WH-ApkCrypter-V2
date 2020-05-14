@@ -34,7 +34,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 # 💡 HOW TO download and run in WINDOWS
 
-1. Download Zip file https://github.com/wh-Cyberspace/WH-ApkCrypter/archive/master.zip
+1. Download Zip file https://github.com/wh-Cyberspace/WH-ApkCrypter-V2/archive/master.zip
 2. Open up Windows directory
 
 3. Now, Unzip your download file (WH-ApkCrypter-master.zip) 
