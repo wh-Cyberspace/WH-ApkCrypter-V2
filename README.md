@@ -1,3 +1,6 @@
+# NOTE : THIS PROJECT HAS BEEN CLOSED . NOW IT WILL NOT WORK. 
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter/master/img/whapkclogo.png" height="40"><br>
 <b>V2</b>
